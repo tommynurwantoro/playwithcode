@@ -9,12 +9,13 @@ namespace ConsoleApplication
     {
         public static void Main(string[] args)
         {
-            // var program = new BigSum();
+            var program = new BigSum();
             // var program = new DiagonalDifference();
             // var program = new PlusMinus();
             // var program = new StairCase();
             // var program = new TimeConversion();
-            var program = new CircularArrayRotation();
+            // var program = new CircularArrayRotation();
+
             program.RunProgram();
         }
     }
