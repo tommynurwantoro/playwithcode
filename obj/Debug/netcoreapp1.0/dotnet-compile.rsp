@@ -88,10 +88,15 @@
 --reference:C:\Users\Tommy\.nuget\packages\System.Xml.ReaderWriter\4.0.11-rc2-24027\ref\netstandard1.3\System.Xml.ReaderWriter.dll
 --reference:C:\Users\Tommy\.nuget\packages\System.Xml.XDocument\4.0.11-rc2-24027\ref\netstandard1.3\System.Xml.XDocument.dll
 C:\Users\Tommy\Source\Repos\playwithcode\BigSum.cs
+C:\Users\Tommy\Source\Repos\playwithcode\Circle.cs
 C:\Users\Tommy\Source\Repos\playwithcode\CircularArrayRotation.cs
+C:\Users\Tommy\Source\Repos\playwithcode\Comparator.cs
 C:\Users\Tommy\Source\Repos\playwithcode\DiagonalDifference.cs
 C:\Users\Tommy\Source\Repos\playwithcode\DorseyThief.cs
+C:\Users\Tommy\Source\Repos\playwithcode\MaximumSubArray.cs
 C:\Users\Tommy\Source\Repos\playwithcode\PlusMinus.cs
+C:\Users\Tommy\Source\Repos\playwithcode\Point2D.cs
+C:\Users\Tommy\Source\Repos\playwithcode\Point3D.cs
 C:\Users\Tommy\Source\Repos\playwithcode\Program.cs
 C:\Users\Tommy\Source\Repos\playwithcode\StairCase.cs
 C:\Users\Tommy\Source\Repos\playwithcode\TimeConversion.cs
